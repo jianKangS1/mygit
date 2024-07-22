@@ -1,0 +1,27 @@
+1 [
+{
+  "directory": "/home/sjk/project/mygit/build",
+  "command": "/usr/bin/c++  -I/home/sjk/project/mygit/include  -g -Wall -g -o CMakeFiles/mygit.dir/src/base.cpp.o -c /home/sjk/project/mygit/src/base.cpp",
+  "file": "/home/sjk/project/mygit/src/base.cpp"
+},
+{
+  "directory": "/home/sjk/project/mygit/build",
+  "command": "/usr/bin/c++  -I/home/sjk/project/mygit/include  -g -Wall -g -o CMakeFiles/mygit.dir/src/cli.cpp.o -c /home/sjk/project/mygit/src/cli.cpp",
+  "file": "/home/sjk/project/mygit/src/cli.cpp"
+},
+{
+  "directory": "/home/sjk/project/mygit/build",
+  "command": "/usr/bin/c++  -I/home/sjk/project/mygit/include  -g -Wall -g -o CMakeFiles/mygit.dir/src/data.cpp.o -c /home/sjk/project/mygit/src/data.cpp",
+  "file": "/home/sjk/project/mygit/src/data.cpp"
+},
+{
+  "directory": "/home/sjk/project/mygit/build",
+  "command": "/usr/bin/c++  -I/home/sjk/project/mygit/include  -g -Wall -g -o CMakeFiles/mygit.dir/src/main.cpp.o -c /home/sjk/project/mygit/src/main.cpp",
+  "file": "/home/sjk/project/mygit/src/main.cpp"
+},
+{
+  "directory": "/home/sjk/project/mygit/build",
+  "command": "/usr/bin/c++  -I/home/sjk/project/mygit/include  -g -Wall -g -o CMakeFiles/mygit.dir/test/commandtest.cpp.o -c /home/sjk/project/mygit/test/commandtest.cpp",
+  "file": "/home/sjk/project/mygit/test/commandtest.cpp"
+}
+]

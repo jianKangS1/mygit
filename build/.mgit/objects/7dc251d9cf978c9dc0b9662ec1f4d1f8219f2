@@ -1,0 +1,1 @@
+1 /usr/bin/c++  -g -Wall -g CMakeFiles/mygit.dir/src/base.cpp.o CMakeFiles/mygit.dir/src/cli.cpp.o CMakeFiles/mygit.dir/src/data.cpp.o CMakeFiles/mygit.dir/src/main.cpp.o CMakeFiles/mygit.dir/test/commandtest.cpp.o -o mygit  -lcrypto -lgtest_main -lgtest 

@@ -1,0 +1,3 @@
+/home/sjk/project/mygit/build/CMakeFiles/mygit.dir
+/home/sjk/project/mygit/build/CMakeFiles/edit_cache.dir
+/home/sjk/project/mygit/build/CMakeFiles/rebuild_cache.dir
